@@ -10,3 +10,4 @@ print("The name is " +name+  " phone number is "+str(number))
 print("The name is %s Phone number is %i "%(name, number))
 
 print("The name is {} Phone number is {} ".format(name, number))
+#different ways to print
