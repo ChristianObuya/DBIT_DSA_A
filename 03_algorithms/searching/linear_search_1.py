@@ -1,3 +1,4 @@
+# comment
 def linear_search(values):
     target = int(input("Enter values to search : "))
     for item in values:
